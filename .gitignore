@@ -3,4 +3,4 @@
 __pycache__/
 
 # Ignore EEG data files
-raw/EEG/*.eeg
+data/raw/EEG/
