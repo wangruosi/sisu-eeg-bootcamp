@@ -11,18 +11,21 @@ Due by 2025/3/1
 
 **Data Setup Instructions**:
 * Please download the EEG dataset from provided link
-* Place the downloaded EEG files into `data/raw/EEG` directory.
-
-repository-root/
+* Under the `data` directory, create a folder named `raw`
+* Place the downloaded EEG files into `data/raw/` directory.
+````
+SISU-EEG-BOOTCAMP/
 │
 ├── data/
 │   └── raw/
-│       ├── file1.vhdr
-│       ├── file1.eeg
-│       ├── file1.vmrk
-│       ├── file2.vhdr
-│       ├── file2.eeg
-│       ├── file2.vmrk
-│       └── ...
+│       ├── AS_pilot1.vhdr
+│       ├── AS_pilot1.eeg
+│       ├── AS_pilot1.vmrk
+│       ├── AS_pilot2.vhdr
+│       ├── AS_pilot2.eeg
+│       ├── AS_pilot2.vmrk
+│       └── ... (additional files)
 │
-└── scripts/
+└── ...
+Unrelated directories are not shown in this diagram.
+```
