@@ -10,9 +10,9 @@
 Due by 2025/3/1
 
 **Data Setup Instructions**:
-* Please download the EEG dataset from provided link
-* Under the `data` directory, create a folder named `raw`
-* Place the downloaded EEG files into `data/raw/` directory.
+* Please download the EEG dataset from the provided link.
+* Under the `data` directory, create a folder named `raw`.
+* Place the downloaded EEG files into the `data/raw/` directory.
 ````
 SISU-EEG-BOOTCAMP/
 │
