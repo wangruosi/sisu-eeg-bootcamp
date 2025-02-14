@@ -3,7 +3,7 @@
 __pycache__/
 
 # Ignore EEG data files
-data/raw/EEG/
+data/raw
 data/preprocessed
 
 # Ignore Scratch
